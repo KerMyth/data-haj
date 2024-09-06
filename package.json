@@ -1,5 +1,4 @@
 {
-  "homepage": "http://kermyth.github.io/latihan",
   "name": "projectbookinghaji",
   "private": true,
   "version": "0.0.0",
@@ -9,9 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "dependencies": {
     "axios": "^1.7.7",
